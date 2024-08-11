@@ -5,7 +5,7 @@
   </summary>
   <div align="left">
     
-![metrics](/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/username)
 
 </div>
 </details>
